@@ -1,5 +1,5 @@
-#ifndef ElegooSmartcar3
-#define ElegooSmartcar3
+#ifndef Smartcar
+#define Smartcar
 
 
 void start(){
